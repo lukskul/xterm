@@ -1,0 +1,21 @@
+{
+  "name": "x_terminal",
+  "version": "1.0.0",
+  "description": "Using x_terminal with jurassic park app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Jurassic Park",
+    "terminal",
+    "Dennis Nedry",
+    "password", 
+    "hacker"
+  ],
+  "author": "lukSkul",
+  "license": "ISC",
+  "dependencies": {
+    "@xterm/xterm": "^5.5.0"
+  }
+}
