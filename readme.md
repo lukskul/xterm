@@ -1,6 +1,6 @@
 ## Terminal using xterm
 
-JavaScript code is added to html for a quick test of the xterm.  
+JavaScript code is added to html for a quick test of the xterm.  Comments leave on for demo.  
 
 ## Idea:
 
