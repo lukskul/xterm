@@ -9,15 +9,17 @@ There are also a few parts of this terminal referencing the 1993 movie Jurassic 
 
 ## ToDo: 
 
-Build out a larger project seperating the javascript and running a dev server.
+[ x ] Build a working demo of the xterm terminal.
 
 ## How to run this project:  
 
-Make sure you have these programs 
-@ https://nodejs.org/en
-@ https://code.visualstudio.com 
+Make sure you have these programs installed: 
 
-Install dependencies: In the terminal run the command - 
+ https://nodejs.org/en
+ 
+ https://code.visualstudio.com 
+
+Install dependencies: In terminal run the command - 
 
     1. npm install 
 
